@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smmac\\source\\repos\\InputTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E86025-74F0-4071-A2A9-861A582AB133}|InputTest\\InputTest.vcxproj|C:\\Users\\smmac\\source\\repos\\InputTest\\InputTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54E86025-74F0-4071-A2A9-861A582AB133}|InputTest\\InputTest.vcxproj|solutionrelative:InputTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\smmac\\source\\repos\\InputTest\\InputTest\\main.cpp",
+              "RelativeDocumentMoniker": "InputTest\\main.cpp",
+              "ToolTip": "C:\\Users\\smmac\\source\\repos\\InputTest\\InputTest\\main.cpp",
+              "RelativeToolTip": "InputTest\\main.cpp",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAmwCYBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T02:13:16.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
